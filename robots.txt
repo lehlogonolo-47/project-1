@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eyihlefuelandenergysupply.co.za/sitemap.xml
